@@ -37,7 +37,7 @@ This project was created as part of my programming learning journey to practice 
 
 2. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/3344267732/2048-game.git
    cd 2048
    ```
 
@@ -187,4 +187,5 @@ This is a learning project and may contain areas for improvement. Feel free to u
 - Built with EasyX Graphics Library
 - Inspired by the original 2048 game by Gabriele Cirulli
 - Created for educational purposes and personal skill development
+
 
