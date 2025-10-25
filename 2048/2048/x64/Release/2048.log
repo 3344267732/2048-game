@@ -1,0 +1,10 @@
+﻿  2048.cpp
+D:\c,训练\2048\2048.cpp(366,18): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+D:\c,训练\2048\2048.cpp(429,21): warning C4101: “lastdirection”: 未引用的局部变量
+D:\c,训练\2048\2048.cpp(467,18): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+D:\c,训练\2048\2048.cpp(543,18): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  2048.vcxproj -> D:\c,训练\2048\x64\Release\2048.exe
